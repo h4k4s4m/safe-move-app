@@ -1,5 +1,6 @@
-# safe-move-app
-Looking to move to a new city? Use this app to show home values and crime stats for a given city.
+# Safe Move
+This project was built on Node.js and can be viewed live below!
+Currently, it is only filled with data for zip-codes in California.
 
-https://nameless-badlands-19621.herokuapp.com/
+https://bit.ly/2lIyubO
 
